@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hüseyin. I am junior mechanical engineering student at Middle East Technical University.
+- 👋 Hi, I’m Hüseyin. I am senior mechanical engineering student at Middle East Technical University.
 - 👀 I’m interested in additive manufacturing (AM), structural mechnanics and robotics. 
 - 🌱 I’m currently learning fundamentals of artificial intelligence and explicit dynamic finite element analysis (FEA). 
 - 📫 How to reach me via kaya.huseyin@metu.edu.tr
